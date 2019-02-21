@@ -1,0 +1,205 @@
+OUT	Irinda	Baikalsk	Accession number	Ident,%	Species	Taxonomy	Groups	Groups of SAR
+OTU_1004	4	0	MF474372	89.84	Phialina sp. 1 FG-2017	"Alveolata; Ciliophora; Intramacronucleata; Litostomatea; Haptoria; Haptorida; Lacrymariidae; Phialina"	SAR	Alveolata
+OTU_1013	1	3	KU665361	88.27	Peniculistoma mytili	"Alveolata; Ciliophora; Intramacronucleata; Oligohymenophorea; Scuticociliatia; Pleuronematida; Peniculistomatidae; Peniculistoma"	SAR	Alveolata
+OTU_1017	2	1	KU219950	91.32	Ichthyophthirius multifiliis	"Alveolata; Ciliophora; Intramacronucleata; Oligohymenophorea; Hymenostomatida; Ophryoglenina; Ichthyophthirius."	SAR	Alveolata
+OTU_1063	3	0	KM222066	88.99	Zosterodasys agamalievi	"Alveolata; Ciliophora; Intramacronucleata; Nassophorea; Synhymeniida; Orthodonellidae; Zosterodasys"	SAR	Alveolata
+OTU_1079	1	3	MG264150	92.41	Litonotus crystallinus	"Alveolata; Ciliophora; Intramacronucleata; Litostomatea; Haptoria; Pleurostomatida; Litonotidae; Litonotus"	SAR	Alveolata
+OTU_1083	3	0	AJ286806	100	Urostyla grandis	"Alveolata; Ciliophora; Intramacronucleata; Spirotrichea; Stichotrichia; Urostylida; Urostylidae; Urostyla"	SAR	Alveolata
+OTU_117	49	152	KX926029	93.52	Uncultured peritrich ciliate clone	"Alveolata; Ciliophora; Intramacronucleata; Oligohymenophorea; Peritrichia; environmental samples"	SAR	Alveolata
+OTU_127	223	76	HQ219427	83.39	Uncultured ciliate clone	"Alveolata; Ciliophora; environmental samples"	SAR	Alveolata
+OTU_218	22	54	GU187058	87.96	Apocarchesium rosettum	"Alveolata; Ciliophora; Intramacronucleata; Oligohymenophorea; Peritrichia; Sessilida; Vorticellidae; Apocarchesium"	SAR	Alveolata
+OTU_226	14	37	KM222066	94.17	Zosterodasys agamalievi	"Alveolata; Ciliophora; Intramacronucleata; Nassophorea; Synhymeniida; Orthodonellidae; Zosterodasys"	SAR	Alveolata
+OTU_232	40	13	KF524413	92.2	Vorticella cf. campanula	"Alveolata; Ciliophora; Intramacronucleata; Oligohymenophorea; Peritrichia; Sessilida; Vorticellidae; Vorticella"	SAR	Alveolata
+OTU_269	34	2	GU187058	84.51	Apocarchesium rosettum	"Alveolata; Ciliophora; Intramacronucleata; Oligohymenophorea; Peritrichia; Sessilida; Vorticellidae; Apocarchesium"	SAR	Alveolata
+OTU_316	33	3	MF474370	95.09	Lacrymaria maurea	"Alveolata; Ciliophora; Intramacronucleata; Litostomatea; Haptoria; Haptorida; Lacrymariidae; Lacrymaria"	SAR	Alveolata
+OTU_346	27	0	HQ219350	96.12	Uncultured ciliate clone	"Alveolata; Ciliophora; environmental samples"	SAR	Alveolata
+OTU_41	1353	2982	KF524371	93.88	Vorticella sp.	"Alveolata; Ciliophora; Intramacronucleata; Oligohymenophorea; Peritrichia; Sessilida; Vorticellidae; Vorticella"	SAR	Alveolata
+OTU_430	6	8	AF508779	98.78	Uroleptus gallina	"Alveolata; Ciliophora; Intramacronucleata; Spirotrichea; Stichotrichia; Urostylida; Urostylidae; Uroleptus"	SAR	Alveolata
+OTU_443	15	1	HQ219435	100	Uncultured ciliate clone	"Alveolata; Ciliophora; environmental samples"	SAR	Alveolata
+OTU_483	11	1	KX926029	83.73	Uncultured peritrich ciliate clone	"Alveolata; Ciliophora; Intramacronucleata; Oligohymenophorea; Peritrichia; environmental samples"	SAR	Alveolata
+OTU_486	13	1	HQ219435	89.97	Uncultured ciliate clone	"Alveolata; Ciliophora; environmental samples"	SAR	Alveolata
+OTU_511	11	1	AF508773	99.41	Stylonychia lemnae	" Alveolata; Ciliophora; Intramacronucleata; Spirotrichea; Stichotrichia; Sporadotrichida; Oxytrichidae; Stylonychinae; Stylonychia"	SAR	Alveolata
+OTU_56	210	857	EU340855	94.52	Pseudovorticella paracratera 	"Alveolata; Ciliophora; Intramacronucleata; Oligohymenophorea; Peritrichia; Sessilida; Vorticellidae; Pseudovorticella"	SAR	Alveolata
+OTU_580	14	6	KU665352	89.97	Mytilophilus pacificae	"Alveolata; Ciliophora; Intramacronucleata; Oligohymenophorea; Scuticociliatia; Pleuronematida; Peniculistomatidae; Mytilophilus"	SAR	Alveolata
+OTU_584	9	0	JN885096	92.41	Parauronema longum	"Alveolata; Ciliophora; Intramacronucleata; Oligohymenophorea; Scuticociliatia; Philasterida; Philasteridae; Parauronema"	SAR	Alveolata
+OTU_592	10	0	KX926077	96.59	Uncultured peritrich ciliate clone	"Alveolata; Ciliophora; Intramacronucleata; Oligohymenophorea; Peritrichia; environmental samples"	SAR	Alveolata
+OTU_615	0	11	KF524371	92.52	Vorticella sp.	"Alveolata; Ciliophora; Intramacronucleata; Oligohymenophorea; Peritrichia; Sessilida; Vorticellidae; Vorticella"	SAR	Alveolata
+OTU_651	11	7	KM222045	99.11	Tachysoma pellionellum	"Alveolata; Ciliophora; Intramacronucleata; Spirotrichea; Stichotrichia; Sporadotrichida; Oxytrichidae; Tachysoma"	SAR	Alveolata
+OTU_658	3	2	FJ554186	92.86	Uncultured Heterotrichida clone	"Alveolata; Ciliophora; Postciliodesmatophora; Heterotrichea; Heterotrichida; environmental samples"	SAR	Alveolata
+OTU_670	3	3	MH444365	74.2	Nassophorea sp.	"Alveolata; Ciliophora; Intramacronucleata; Nassophorea; unclassified Nassophorea"	SAR	Alveolata
+OTU_69	76	635	KF524373	99.66	Vorticella gracilis	"Alveolata; Ciliophora; Intramacronucleata; Oligohymenophorea; Peritrichia; Sessilida; Vorticellidae; Vorticella"	SAR	Alveolata
+OTU_694	3	4	HQ219464	97.87	Uncultured ciliate clone	"Alveolata; Ciliophora; environmental samples"	SAR	Alveolata
+OTU_71	15	533	KF524422	97.95	Vorticella chlorostigma	"Alveolata; Ciliophora; Intramacronucleata; Oligohymenophorea; Peritrichia; Sessilida; Vorticellidae; Vorticella"	SAR	Alveolata
+OTU_751	3	4	KX926029	90.44	Uncultured peritrich ciliate clone	"Alveolata; Ciliophora; Intramacronucleata; Oligohymenophorea; Peritrichia; environmental samples"	SAR	Alveolata
+OTU_832	10	0	JX310029	90.91	Sathrophilus holtae	"Alveolata; Ciliophora; Intramacronucleata; Oligohymenophorea; Scuticociliatia; Philasterida; Cinetochilidae; Sathrophilus"	SAR	Alveolata
+OTU_849	3	0	KJ475242	93.21	Frontonia paramagna	"Alveolata; Ciliophora; Intramacronucleata; Oligohymenophorea; Peniculida; Frontoniidae; Frontonia"	SAR	Alveolata
+OTU_855	4	0	GU187058	86.53	Apocarchesium rosettum	"Alveolata; Ciliophora; Intramacronucleata; Oligohymenophorea; Peritrichia; Sessilida; Vorticellidae; Apocarchesium"	SAR	Alveolata
+OTU_866	4	1	MF474372	89.88	Phialina sp.	"Alveolata; Ciliophora; Intramacronucleata; Litostomatea; Haptoria; Haptorida; Lacrymariidae; Phialina"	SAR	Alveolata
+OTU_869	6	0	GU586188	79.02	Campanella umbellaria	"Alveolata; Ciliophora; Intramacronucleata; Oligohymenophorea; Peritrichia; Sessilida; Epistylidae; Campanella"	SAR	Alveolata
+OTU_870	1	3	KM222052	87.64	Pseudotontonia simplicidens	"Alveolata; Ciliophora; Intramacronucleata; Spirotrichea; Oligotrichia; Tontoniidae; Pseudotontonia"	SAR	Alveolata
+OTU_946	2	0	MF474370	91.07	Lacrymaria maurea	"Alveolata; Ciliophora; Intramacronucleata; Litostomatea; Haptoria; Haptorida; Lacrymariidae; Lacrymaria"	SAR	Alveolata
+OTU_962	2	0	GQ281529	97.48	uncultured freshwater alveolate	"Alveolata; environmental samples"	SAR	Alveolata
+OTU_975	2	0	GQ281532	99.6	uncultured freshwater alveolate	"Alveolata; environmental samples"	SAR	Alveolata
+OTU_980	2	0	KX360019	94.53	Urostylida sp. ZL-2016a	"Alveolata; Ciliophora; Intramacronucleata; Spirotrichea; Stichotrichia; Urostylida; unclassified Urostylida"	SAR	Alveolata
+OTU_867	1	14	GU001161	90.35	Vannella septentrionalis	"Amoebozoa; Discosea; Flabellinia; Vannellidae; Vannella"	Amoebozoa	Amoebozoa
+OTU_628	6	0	LT993784	93.22	Katablepharis remigera	"Katablepharidophyta; Katablepharidaceae; Katablepharis"	Chromista	Chromista
+OTU_1025	3	0	HQ219454	97.71	uncultured Cryptophyta	"Cryptophyta; environmental samples"	Cryptophyta	Cryptophyta
+OTU_10	2	3	MK465184	100	Epicoccum sp.	"Fungi; Dikarya; Ascomycota; Pezizomycotina; Dothideomycetes; Pleosporomycetidae; Pleosporales; Pleosporineae;Didymellaceae; Epicoccum"	Fungi	Fungi
+OTU_1002	2	0	MH208712	100	Debaryomyces hansenii	"Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Debaryomycetaceae; Debaryomyces"	Fungi	Fungi
+OTU_1014	2	0	MF569544	86.05	uncultured fungus	"Fungi; environmental samples"	Fungi	Fungi
+OTU_1020	0	2	KX195062	100	Uncultured fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_1039	0	8	KU534713	95.65	Uncultured Rhizophydium clone	" Fungi; Chytridiomycota; Chytridiomycetes; Rhizophydiales; Rhizophydiaceae; environmental samples"	Fungi	Fungi
+OTU_1043	3	0	MF569850	94.35	uncultured fungus	"Fungi; environmental samples"	Fungi	Fungi
+OTU_1047	0	3	MH356538	85.51	uncultured Rhizophydiales	"Fungi; Fungi incertae sedis; Chytridiomycota; Chytridiomycetes; Rhizophydiales; environmental samples"	Fungi	Fungi
+OTU_1055	4	0	MF571076	86.83	uncultured fungus	"Fungi; environmental samples"	Fungi	Fungi
+OTU_1061	2	1	MF971419	87.4	uncultured fungus	"Fungi; environmental samples"	Fungi	Fungi
+OTU_1084	0	2	MF142398	95.73	uncultured fungus	"Fungi; environmental samples"	Fungi	Fungi
+OTU_1085	2	0	LC310176	87.75	uncultured fungus	"Fungi; environmental samples"	Fungi	Fungi
+OTU_1088	5	0	NR_158282	100	Neoascochyta cylindrispora	"Fungi; Dikarya; Ascomycota; Pezizomycotina; Dothideomycetes; Pleosporomycetidae; Pleosporales; Pleosporineae; Didymellaceae; Neoascochyta"	Fungi	Fungi
+OTU_1098	2	0	MF570515	95.52	uncultured fungus	"Fungi; environmental samples"	Fungi	Fungi
+OTU_1106	0	4	MF570669	95.56	uncultured fungus	"Fungi; environmental samples"	Fungi	Fungi
+OTU_1115	0	2	KP234368	98.97	Articulospora tetracladia	"Fungi; Dikarya; Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Articulospora"	Fungi	Fungi
+OTU_1121	2	2	MF971539	97.09	uncultured fungus	"Fungi; environmental samples"	Fungi	Fungi
+OTU_1142	0	2	KJ472290	94.14	Hymenoscyphus calyculus	"Fungi; Dikarya; Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Hymenoscyphus"	Fungi	Fungi
+OTU_1145	2	0	KP889977	95.27	uncultured fungus	"Fungi; environmental samples"	Fungi	Fungi
+OTU_191	77	1	MF570515	97.31	Uncultured fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_221	59	16	MF570739	83.99	Uncultured fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_234	72	0	MF570303	81.44	Uncultured fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_343	18	5	MF569968	89.1	Uncultured fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_4	9	1	MK460809	100	Cladosporium floccosum	"Fungi; Dikarya; Ascomycota; Pezizomycotina; Dothideomycetes; Dothideomycetidae; Capnodiales; Cladosporiaceae; Cladosporium"	Fungi	Fungi
+OTU_412	18	0	MF571498	86.99	Uncultured fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_419	0	18	MF482832	97.71	Uncultured Entomophthoromycota	"Fungi; Zoopagomycota; Entomophthoromycotina; environmental samples"	Fungi	Fungi
+OTU_433	17	0	MF569963	97.95	Uncultured fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_44	5	2	MK461031	100	Alternaria sp.	"Fungi; Dikarya; Ascomycota; Pezizomycotina; Dothideomycetes; Pleosporomycetidae; Pleosporales; Pleosporineae; Pleosporaceae; Alternaria"	Fungi	Fungi
+OTU_465	17	0	KC965583	97.77	Uncultured fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_477	14	1	MF570398	99.4	Uncultured fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_551	8	2	MF571161	76.82	Uncultured fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_563	10	0	MF569968	84.49	Uncultured fungus clone 	"Fungi; environmental samples"	Fungi	Fungi
+OTU_597	2	11	AM260815	88.46	Uncultured fungus	"Fungi; environmental samples"	Fungi	Fungi
+OTU_598	8	0	FJ553040	92.83	Uncultured Dothideomycetes clone	"Fungi; Dikarya; Ascomycota; Pezizomycotina; Dothideomycetes; environmental samples"	Fungi	Fungi
+OTU_600	13	5	EF585664	98.41	Betamyces americaemeridionalis 	"Fungi; Chytridiomycota; Chytridiomycetes;Rhizophydiales; Alphamycetaceae; Betamyces"	Fungi	Fungi
+OTU_606	7	0	MF570676	78.83	Uncultured fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_627	3	4	EU516682	83.72	Uncultured fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_642	5	1	KX214378	100	Uncultured Tetracladium clone	"Fungi; Dikarya; Ascomycota; Ascomycota incertae sedis"	Fungi	Fungi
+OTU_657	0	8	AM999746	96.46	Uncultured fungus	"Fungi; environmental samples"	Fungi	Fungi
+OTU_666	0	6	GU065483	86.79	uncultured fungus	"Fungi; environmental samples"	Fungi	Fungi
+OTU_683	0	8	KU534713	95.65	Uncultured Rhizophydium clone	" Fungi; Chytridiomycota; Chytridiomycetes; Rhizophydiales; Rhizophydiaceae; environmental samples"	Fungi	Fungi
+OTU_684	0	6	MF971539	97.09	Uncultured fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_686	5	0	JQ666593	95.5	Uncultured soil fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_688	6	0	KY697130	98.02	Hydropunctaria rheitrophila	"Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriomycetidae; Verrucariales; Verrucariaceae; Hydropunctaria"	Fungi	Fungi
+OTU_695	0	6	KF297107	82.81	Uncultured fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_698	0	6	KU534713	97.8	Uncultured Rhizophydium clone	"Fungi; Chytridiomycota; Chytridiomycetes; Rhizophydiales; Rhizophydiaceae; environmental samples"	Fungi	Fungi
+OTU_7	15	6	MK461092	100	Alternaria sp.	"Fungi; Dikarya; Ascomycota; Pezizomycotina; Dothideomycetes; Pleosporomycetidae; Pleosporales; Pleosporineae; Pleosporaceae; Alternaria"	Fungi	Fungi
+OTU_701	5	0	KM493179	96.33	Uncultured fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_702	5	0	MF971493	93.43	Uncultured fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_703	10	0	KX195061	96.25	Uncultured fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_711	6	0	KY697130	95.38	Hydropunctaria rheitrophila	"Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriomycetidae; Verrucariales; Verrucariaceae; Hydropunctaria"	Fungi	Fungi
+OTU_72	1	1	KY037853	100	Filobasidium wieringae	"Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales; Filobasidiaceae; Filobasidium"	Fungi	Fungi
+OTU_721	7	0	MF571076	89.52	Uncultured fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_724	2	3	MF570676	91.82	uncultured fungus	"Fungi; environmental samples"	Fungi	Fungi
+OTU_744	6	1	KX193387	95.5	Uncultured fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_745	3	2	FJ552882	89.03	Uncultured Tricholomataceae clone	"Fungi; Dikarya; Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricomycetidae; Agaricales; Tricholomataceae; environmental samples"	Fungi	Fungi
+OTU_767	0	10	MF485317 	89.44	Uncultured Glomerellales isolate soil	"Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreomycetidae; Glomerellales; environmental samples"	Fungi	Fungi
+OTU_772	5	7	MF569968 	86.08	Uncultured fungus clone	"Fungi; environmental samples"	Fungi	Fungi
+OTU_806	0	4	KM493296	79.68	uncultured fungus	"Fungi; environmental samples"	Fungi	Fungi
+OTU_810	0	4	MF570555	88.47	uncultured fungus	"Fungi; environmental samples"	Fungi	Fungi
+OTU_815	6	0	JX029126	91.75	Tetracladium sp.	"Fungi; Dikarya; Ascomycota; Ascomycota incertae sedis; Tetracladium"	Fungi	Fungi
+OTU_824	0	3	MF570992	94.12	uncultured fungus	"Fungi; environmental samples"	Fungi	Fungi
+OTU_887	4	0	KC966188	83.12	uncultured fungus	"Fungi; environmental samples"	Fungi	Fungi
+OTU_893	1	1	MG976302	100	uncultured Cryptococcus	"Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; environmental samples"	Fungi	Fungi
+OTU_904	1	5	KU534713	95.65	Uncultured Rhizophydium clone	" Fungi; Chytridiomycota; Chytridiomycetes; Rhizophydiales; Rhizophydiaceae; environmental samples"	Fungi	Fungi
+OTU_981	3	0	MF486351	91.3	uncultured Coniochaetales	"Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Sordariomycetidae; Coniochaetales; environmental samples"	Fungi	Fungi
+OTU_995	1	4	KC215944	88.61	uncultured fungus	"Fungi; environmental samples"	Fungi	Fungi
+OTU_997	0	6	KU534713	95.65	uncultured Rhizophydium	"Fungi; Chytridiomycota; Chytridiomycetes; Rhizophydiales; Rhizophydiaceae; environmental samples"	Fungi	Fungi
+OTU_1023	31	5	JQ354641	90.67	Gomphonema parvulum	"Stramenopiles; Bacillariophyta; Bacillariophyceae; Bacillariophycidae; Cymbellales; Gomphonemataceae; Gomphonema"	SAR	Stramenopiles
+OTU_1062	2	0	GQ273992	80.29	uncultured freshwater diatom	"Stramenopiles; Bacillariophyta; environmental samples"	SAR	Stramenopiles
+OTU_1111	10	9	KY421438	99	Didymosphenia geminata	"Stramenopiles; Bacillariophyta; Bacillariophyceae; Bacillariophycidae; Cymbellales; Gomphonemataceae; Didymosphenia"	SAR	Stramenopiles
+OTU_233	2	100	KY421438	90.26	Didymosphenia geminata	"Stramenopiles; Bacillariophyta; Bacillariophyceae; Bacillariophycidae; Cymbellales; Gomphonemataceae; Didymosphenia"	SAR	Stramenopiles
+OTU_275	6	41	KY421432	85.71	Didymosphenia geminata	"Stramenopiles; Bacillariophyta; Bacillariophyceae; Bacillariophycidae; Cymbellales; Gomphonemataceae; Didymosphenia"	SAR	Stramenopiles
+OTU_422	1	16	KY421438	91.23	Didymosphenia geminata	"Stramenopiles; Bacillariophyta; Bacillariophyceae; Bacillariophycidae; Cymbellales; Gomphonemataceae; Didymosphenia"	SAR	Stramenopiles
+OTU_522	9	0	MG596348	100	Eustigmatos magnus	"Stramenopiles; Eustigmatophyceae; Eustigmatales; Eustigmataceae; Eustigmatos"	SAR	Stramenopiles
+OTU_553	25	62	JQ354641	90.67	Gomphonema parvulum	"Stramenopiles; Bacillariophyta; Bacillariophyceae; Bacillariophycidae; Cymbellales; Gomphonemataceae; Gomphonema"	SAR	Stramenopiles
+OTU_626	12	56	JQ354641	91.33	Gomphonema parvulum	"Stramenopiles; Bacillariophyta; Bacillariophyceae; Bacillariophycidae; Cymbellales; Gomphonemataceae; Gomphonema"	SAR	Stramenopiles
+OTU_629	0	9	KY421438	90.23	Didymosphenia geminata	"Stramenopiles; Bacillariophyta; Bacillariophyceae; Bacillariophycidae; Cymbellales; Gomphonemataceae; Didymosphenia"	SAR	Stramenopiles
+OTU_765	3	3	GQ273992	81.51	Uncultured freshwater diatom clone 	"Stramenopiles; Bacillariophyta; environmental samples"	SAR	Stramenopiles
+OTU_78	571	154	KY421438	98.05	Didymosphenia geminata	"Stramenopiles; Bacillariophyta; Bacillariophyceae; Bacillariophycidae; Cymbellales; Gomphonemataceae; Didymosphenia"	SAR	Stramenopiles
+OTU_790	3	4	GQ273992	82.31	Uncultured freshwater diatom clone	"Stramenopiles; Bacillariophyta; environmental samples"	SAR	Stramenopiles
+OTU_804	15	0	GQ330343	98.28	Fragilariopsis sp.	"Stramenopiles; Bacillariophyta; Bacillariophyceae; Bacillariophycidae; Bacillariales; Bacillariaceae; Fragilariopsis"	SAR	Stramenopiles
+OTU_860	39	37	JQ354641	90	Gomphonema parvulum	"Stramenopiles; Bacillariophyta; Bacillariophyceae; Bacillariophycidae; Cymbellales; Gomphonemataceae; Gomphonema"	SAR	Stramenopiles
+OTU_876	8	11	KX442759	93.52	Dinobryon sp.	"Stramenopiles; Chrysophyceae; Chromulinales; Dinobryaceae; Dinobryon"	SAR	Stramenopiles
+OTU_892	3	0	KJ671759	95.93	Amphiprora alata	"Stramenopiles; Bacillariophyta; Bacillariophyceae; Bacillariophycidae; Naviculales; Amphipleuraceae; Amphiprora"	SAR	Stramenopiles
+OTU_898	3	10	JQ354641	90.51	Gomphonema parvulum	"Stramenopiles; Bacillariophyta; Bacillariophyceae; Bacillariophycidae; Cymbellales; Gomphonemataceae; Gomphonema"	SAR	Stramenopiles
+OTU_947	2	0	MG596348	100	Eustigmatos magnus	" Stramenopiles; Eustigmatophyceae; Eustigmatales; Eustigmataceae; Eustigmatos"	SAR	Stramenopiles
+OTU_969	3	0	GQ330343	98.28	Fragilariopsis sp. CCMP2038	"Stramenopiles; Bacillariophyta; Bacillariophyceae; Bacillariophycidae; Bacillariales; Bacillariaceae; Fragilariopsis"	SAR	Stramenopiles
+OTU_1122	5	0	0	0	Unclussified	Unclussified	Unclussified	Unclussified
+OTU_392	57	0	KY932451	95.39	Uncultured eukaryote clone	Unclussified	Unclussified	Unclussified
+OTU_406	3	45	AY882930	96.52	Uncultured eukaryote clone	Unclussified	Unclussified	Unclussified
+OTU_508	19	0	AY882930	95.65	Uncultured eukaryote clone	Unclussified	Unclussified	Unclussified
+OTU_540	41	1	AY882930	96.52	Uncultured eukaryote clone 	Unclussified	Unclussified	Unclussified
+OTU_693	6	0	AY882930	97.39	Uncultured eukaryote clone	Unclussified	Unclussified	Unclussified
+OTU_709	2	10	KY932451	94.12	Uncultured eukaryote clone	Unclussified	Unclussified	Unclussified
+OTU_827	8	0	AY882930	96.52	Uncultured eukaryote clone	Unclussified	Unclussified	Unclussified
+OTU_859	5	2	HG008777	86.24	Uncultured eukaryote	Unclussified	Unclussified	Unclussified
+OTU_926	3	0	0	0	Unclussified	Unclussified	Unclussified	Unclussified
+OTU_992	6	0	GU941690	89.12	Uncultured eukaryote clone	Unclussified	Unclussified	Unclussified
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+OTU	E01 Иринда	E02 Байкальск		Ident %				
